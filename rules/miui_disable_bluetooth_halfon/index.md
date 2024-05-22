@@ -8,7 +8,7 @@
 | 命名空间 | ``MiBluetoothDisable`` |
 | 目前版本 | ``Release 3.1.1`` |
 | 在线任务版本 | ``Release 3`` |
-| 下载 | [gihubRaw](./) |
+| 下载 | [gihubRaw](./MIUI永久关闭蓝牙补丁 v3.1.1.xtsk) |
 | 权限需求 | Shizuku |
 
 ## 简介
