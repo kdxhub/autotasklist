@@ -11,3 +11,7 @@
 > 由于未知原因，酷安网页版找不到此应用信息。
 
 您可点击[此处](https://qm.qq.com/cgi-bin/qm/qr?k=RhYAIvFCODAcbssnqMvylFBLU4CBPBmo&&group_code=258644994)加入官方QQ群。
+
+
+![](https://s21.ax1x.com/2024/05/23/pkMO8un.jpg)
+![](https://s21.ax1x.com/2024/05/23/pkMO1js.jpg)
