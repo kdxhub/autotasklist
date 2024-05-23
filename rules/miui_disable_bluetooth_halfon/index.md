@@ -7,9 +7,14 @@
 | 命名空间 | ``MiBluetoothDisable`` |
 | 目前版本 | ``Release 3.1.1`` |
 | 在线任务版本 | ``Release 3`` |
-| 下载 | [gihubRaw](./MIUI永久关闭蓝牙补丁 v3.1.1.xtsk) |
+| 下载 | [githubRaw](./MIUI永久关闭蓝牙补丁 v3.1.1.xtsk) |
 | 权限需求 | Shizuku |
 
 ## 简介
+您是否还在为「在明天前保持断开」而苦恼？<br>
+现在，免Root/DeviceOwner无痛解决！
 
-## 须知
+> HyperOS可以在蓝牙设置中关闭此功能，因此无需使用本脚本。
+
+![1](https://s21.ax1x.com/2024/05/24/pkQw3tg.jpg)
+![2](https://s21.ax1x.com/2024/05/24/pkQw8hQ.jpg)

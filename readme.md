@@ -5,5 +5,7 @@
 
 [导入任务教程](./about_import)
 # 索引
-* [MIUI蓝牙永久关闭补丁](./rules/miui_disable_bluetooth_halfon)
-* [禁止非法安装应用](./rules/no_install_jumping)
+* [MIUI蓝牙永久关闭补丁](./rules/miui_disable_bluetooth_halfon)<br>
+无痛解决「蓝牙设备的连接将在明天前保持断开」
+* [禁止非法安装应用](./rules/no_install_jumping)<br>
+不许应用僭越一步

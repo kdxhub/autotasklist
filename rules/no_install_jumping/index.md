@@ -7,7 +7,7 @@
 | 命名空间 | ``noInstall`` |
 | 目前版本 | ``Release 2.1.1`` |
 | 在线任务版本 | ``Release 2.1`` |
-| 下载 | [gihubRaw](./禁止非法安装应用 V2.1.1.xtsk) |
+| 下载 | [githubRaw](./禁止非法安装应用 V2.1.1.xtsk) |
 | 权限需求 | Shizuku |
 
 ## 简介

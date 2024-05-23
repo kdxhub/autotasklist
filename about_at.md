@@ -1,4 +1,6 @@
 # 关于「自动任务App」
+<small><a href="./index">←返回</a> </small><br>
+
 自动任务App是由[@xjunz](https://github.com/xjunz/)和[@--lin](about:blank)开发的一款致力于安卓自动化任务的软件<br>
 相较于[Tasker](https://tasker.joaoapps.com/)或者[auto.js](https://kdxhub.github.io/api/alert.htm?text=Auto.js全网下架想什么呢)，其有着简易清晰的界面与Material Design的设计风格，具有高效且精致的……<br>
 ~~编不下去了~~<br>

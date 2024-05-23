@@ -1,4 +1,6 @@
 # 导入规则
+<small><a href="//kdxhub.github.io/api/back.htm">←返回</a> </small><br>
+
 由于URL索引仍未上线，因此您只能使用[文件导入](#导入文件)
 
 适用版本``1.4.7rc55``至``1.4.7rc56``
