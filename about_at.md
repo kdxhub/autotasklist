@@ -1,5 +1,5 @@
 ---
-title :"关于「自动任务App」"
+title: "关于「自动任务App」"
 ---
 
 <small><a href="./index">←返回</a> </small><br>
