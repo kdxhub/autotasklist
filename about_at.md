@@ -1,4 +1,7 @@
-# 关于「自动任务App」
+---
+title :"关于「自动任务App」"
+---
+
 <small><a href="./index">←返回</a> </small><br>
 
 自动任务App是由[@xjunz](https://github.com/xjunz/)和[@--lin](about:blank)开发的一款致力于安卓自动化任务的软件<br>
