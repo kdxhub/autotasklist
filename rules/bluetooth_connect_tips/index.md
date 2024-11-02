@@ -18,3 +18,5 @@ title: "蓝牙设备连接提示"
 ## 简介
 当有蓝牙设备连接、断开时，自动发送通知提示一下。<br>
 支持指定应用免打扰、指定时刻免打扰。
+
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://kdxiaoyi.top/autotasklist/res/pmd-reRender.min.js"></script>

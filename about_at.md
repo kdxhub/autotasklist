@@ -13,10 +13,12 @@ title: "关于「自动任务App」"
 [xjunz/AutoTask](https://github.com/xjunz/AutoTask)
 
 本页面仅供介绍使用。下载请前往[酷安官方页面](https://www.coolapk.com/apk/top.xjunz.tasker)。
-> 由于未知原因，酷安网页版找不到此应用信息。
+> 由于未知原因，酷安网页版找不到此应用信息。<br>您可以暂时使用[非官方分发资源](https://gitee.com/kdxiaoyi/autotasklist/releases/download/mirror-1.4.7rc55/1.4.7rc55.apk)。
 
 您可点击[此处](https://qm.qq.com/cgi-bin/qm/qr?k=RhYAIvFCODAcbssnqMvylFBLU4CBPBmo&&group_code=258644994)加入官方QQ群。
 
 
 ![](https://s21.ax1x.com/2024/05/23/pkMO8un.jpg)
 ![](https://s21.ax1x.com/2024/05/23/pkMO1js.jpg)
+
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://kdxiaoyi.top/autotasklist/res/pmd-reRender.min.js"></script>

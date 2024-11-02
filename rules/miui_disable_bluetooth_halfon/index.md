@@ -22,3 +22,5 @@ title: "MIUI永久关闭蓝牙补丁"
 
 ![1](https://s21.ax1x.com/2024/05/24/pkQw3tg.jpg)
 ![2](https://s21.ax1x.com/2024/05/24/pkQw8hQ.jpg)
+
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://kdxiaoyi.top/autotasklist/res/pmd-reRender.min.js"></script>

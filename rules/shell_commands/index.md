@@ -20,3 +20,5 @@ title: "shell指令大集 无root版"
 
 ## 备注
 应作者请求，将该任务包含的指令全部上传至[@kdxiaoyi的博客(b:2024/25)](//kdxhub.github.io/blogs/2024/25)
+
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://kdxiaoyi.top/autotasklist/res/pmd-reRender.min.js"></script>

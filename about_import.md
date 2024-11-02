@@ -22,3 +22,5 @@ title: "导入规则"
 在下载任务规则文件``*.xtsk``后，打开它<br>
 打开方式选择「导入任务」<br>
 ![打开方式](https://s21.ax1x.com/2024/05/23/pkMOBv9.jpg)
+
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://kdxiaoyi.top/autotasklist/res/pmd-reRender.min.js"></script>

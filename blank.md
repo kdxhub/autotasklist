@@ -18,3 +18,6 @@ title: ""
 ## 简介
 
 ## 须知
+
+
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://kdxiaoyi.top/autotasklist/res/pmd-reRender.min.js"></script>
